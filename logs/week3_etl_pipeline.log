@@ -1,0 +1,19 @@
+2026-05-30 19:43:02,562 - INFO - Starting Week 3 ETL pipeline.
+2026-05-30 19:43:02,562 - INFO - Requesting weather data for Louisville.
+2026-05-30 19:43:03,149 - INFO - Extracted 16 rows for Louisville.
+2026-05-30 19:43:03,149 - INFO - Requesting weather data for Lexington.
+2026-05-30 19:43:03,669 - INFO - Extracted 16 rows for Lexington.
+2026-05-30 19:43:03,670 - INFO - Requesting weather data for Bowling Green.
+2026-05-30 19:43:04,198 - INFO - Extracted 16 rows for Bowling Green.
+2026-05-30 19:43:04,205 - INFO - Saved raw extracted data to /Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/data/raw/open_meteo_raw.csv.
+2026-05-30 19:43:04,206 - INFO - Total raw rows extracted: 48.
+2026-05-30 19:43:04,206 - INFO - Starting transformation process.
+2026-05-30 19:43:04,217 - INFO - Transformation complete. Transformed row count: 48.
+2026-05-30 19:43:04,217 - INFO - Starting data validation checks.
+2026-05-30 19:43:04,219 - INFO - Validation passed: required columns are present.
+2026-05-30 19:43:04,219 - INFO - Validation passed: row counts match.
+2026-05-30 19:43:04,219 - INFO - Validation passed: no duplicate natural keys.
+2026-05-30 19:43:04,219 - INFO - Validation passed: no critical null values.
+2026-05-30 19:43:04,219 - INFO - Validation passed: range checks completed successfully.
+2026-05-30 19:43:04,221 - INFO - Processed analytics-ready data saved to /Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/data/processed/weather_daily_processed.csv.
+2026-05-30 19:43:04,221 - INFO - Week 3 ETL pipeline completed successfully.
