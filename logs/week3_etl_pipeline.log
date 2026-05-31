@@ -17,3 +17,129 @@
 2026-05-30 19:43:04,219 - INFO - Validation passed: range checks completed successfully.
 2026-05-30 19:43:04,221 - INFO - Processed analytics-ready data saved to /Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/data/processed/weather_daily_processed.csv.
 2026-05-30 19:43:04,221 - INFO - Week 3 ETL pipeline completed successfully.
+2026-05-30 20:05:07,134 - INFO - Starting Week 3 ETL pipeline.
+2026-05-30 20:05:07,134 - INFO - Requesting weather data for Louisville.
+2026-05-30 20:05:07,725 - INFO - Extracted 16 rows for Louisville.
+2026-05-30 20:05:07,726 - INFO - Requesting weather data for Lexington.
+2026-05-30 20:05:08,248 - INFO - Extracted 16 rows for Lexington.
+2026-05-30 20:05:08,249 - INFO - Requesting weather data for Bowling Green.
+2026-05-30 20:05:08,777 - INFO - Extracted 16 rows for Bowling Green.
+2026-05-30 20:05:08,786 - INFO - Saved raw extracted data to /Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/data/raw/open_meteo_raw.csv.
+2026-05-30 20:05:08,786 - INFO - Total raw rows extracted: 48.
+2026-05-30 20:05:08,786 - INFO - Starting transformation process.
+2026-05-30 20:05:08,799 - INFO - Transformation complete. Transformed row count: 48.
+2026-05-30 20:05:08,799 - INFO - Starting data validation checks.
+2026-05-30 20:05:08,801 - INFO - Validation passed: required columns are present.
+2026-05-30 20:05:08,801 - INFO - Validation passed: row counts match.
+2026-05-30 20:05:08,801 - INFO - Validation passed: no duplicate natural keys.
+2026-05-30 20:05:08,801 - INFO - Validation passed: no critical null values.
+2026-05-30 20:05:08,801 - INFO - Validation passed: range checks completed successfully.
+2026-05-30 20:05:08,803 - INFO - Processed analytics-ready data saved to /Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/data/processed/weather_daily_processed.csv.
+2026-05-30 20:05:08,803 - INFO - Connecting to PostgreSQL database.
+2026-05-30 20:05:10,401 - INFO - Loaded 48 records to PostgreSQL table fact_weather_daily.
+2026-05-30 20:05:10,401 - INFO - Week 3 ETL pipeline completed successfully.
+2026-05-31 06:56:34,306 - INFO - Starting Week 3 ETL pipeline.
+2026-05-31 06:56:34,307 - INFO - Requesting weather data for Louisville.
+2026-05-31 06:56:35,233 - INFO - Extracted 16 rows for Louisville.
+2026-05-31 06:56:35,234 - INFO - Requesting weather data for Lexington.
+2026-05-31 06:56:35,911 - INFO - Extracted 16 rows for Lexington.
+2026-05-31 06:56:35,912 - INFO - Requesting weather data for Bowling Green.
+2026-05-31 06:56:36,450 - INFO - Extracted 16 rows for Bowling Green.
+2026-05-31 06:56:36,461 - INFO - Saved raw extracted data to /Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/data/raw/open_meteo_raw.csv.
+2026-05-31 06:56:36,461 - INFO - Total raw rows extracted: 48.
+2026-05-31 06:56:36,461 - INFO - Starting transformation process.
+2026-05-31 06:56:36,478 - INFO - Transformation complete. Transformed row count: 48.
+2026-05-31 06:56:36,478 - INFO - Starting data validation checks.
+2026-05-31 06:56:36,480 - ERROR - Week 3 ETL pipeline failed: Validation failed. Critical null values found: {'temperature_max_f': 3, 'temperature_min_f': 3, 'temperature_avg_f': 3}
+Traceback (most recent call last):
+  File "/Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/week3_etl_pipeline.py", line 498, in main
+    validate_weather_data(transformed_df, raw_row_count=len(raw_df))
+  File "/Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/week3_etl_pipeline.py", line 393, in validate_weather_data
+    raise ValueError(f"Validation failed. Critical null values found: {failed_null_checks.to_dict()}")
+ValueError: Validation failed. Critical null values found: {'temperature_max_f': 3, 'temperature_min_f': 3, 'temperature_avg_f': 3}
+2026-05-31 07:02:05,831 - INFO - Starting Week 3 ETL pipeline.
+2026-05-31 07:02:05,832 - INFO - Requesting weather data for Louisville.
+2026-05-31 07:02:06,392 - INFO - Extracted 16 rows for Louisville.
+2026-05-31 07:02:06,392 - INFO - Requesting weather data for Lexington.
+2026-05-31 07:02:06,963 - INFO - Extracted 16 rows for Lexington.
+2026-05-31 07:02:06,964 - INFO - Requesting weather data for Bowling Green.
+2026-05-31 07:02:07,654 - INFO - Extracted 16 rows for Bowling Green.
+2026-05-31 07:02:07,664 - INFO - Saved raw extracted data to /Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/data/raw/open_meteo_raw.csv.
+2026-05-31 07:02:07,664 - INFO - Total raw rows extracted: 48.
+2026-05-31 07:02:07,664 - INFO - Starting transformation process.
+2026-05-31 07:02:07,673 - WARNING - Missing temperature values found in 3 records. Filling missing values using location-level average temperatures.
+2026-05-31 07:02:07,683 - INFO - Transformation complete. Transformed row count: 48.
+2026-05-31 07:02:07,683 - INFO - Starting data validation checks.
+2026-05-31 07:02:07,684 - ERROR - Week 3 ETL pipeline failed: Validation failed. Weather code outside expected range 0–100.
+Traceback (most recent call last):
+  File "/Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/week3_etl_pipeline.py", line 656, in main
+    validate_weather_data(transformed_df, raw_row_count=len(raw_df))
+  File "/Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/week3_etl_pipeline.py", line 554, in validate_weather_data
+    raise ValueError("Validation failed. Weather code outside expected range 0–100.")
+ValueError: Validation failed. Weather code outside expected range 0–100.
+2026-05-31 07:04:39,256 - INFO - Starting Week 3 ETL pipeline.
+2026-05-31 07:04:39,256 - INFO - Requesting weather data for Louisville.
+2026-05-31 07:04:39,891 - INFO - Extracted 16 rows for Louisville.
+2026-05-31 07:04:39,891 - INFO - Requesting weather data for Lexington.
+2026-05-31 07:04:40,564 - INFO - Extracted 16 rows for Lexington.
+2026-05-31 07:04:40,567 - INFO - Requesting weather data for Bowling Green.
+2026-05-31 07:04:41,108 - INFO - Extracted 16 rows for Bowling Green.
+2026-05-31 07:04:41,116 - INFO - Saved raw extracted data to /Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/data/raw/open_meteo_raw.csv.
+2026-05-31 07:04:41,116 - INFO - Total raw rows extracted: 48.
+2026-05-31 07:04:41,117 - INFO - Starting transformation process.
+2026-05-31 07:04:41,126 - WARNING - Missing temperature values found in 3 records. Filling missing values using location-level average temperatures.
+2026-05-31 07:04:41,134 - INFO - Transformation complete. Transformed row count: 48.
+2026-05-31 07:04:41,134 - INFO - Starting data validation checks.
+2026-05-31 07:04:41,135 - ERROR - Week 3 ETL pipeline failed: Validation failed. Weather code contains null values.
+Traceback (most recent call last):
+  File "/Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/week3_etl_pipeline.py", line 663, in main
+    validate_weather_data(transformed_df, raw_row_count=len(raw_df))
+  File "/Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/week3_etl_pipeline.py", line 556, in validate_weather_data
+    raise ValueError("Validation failed. Weather code contains null values.")
+ValueError: Validation failed. Weather code contains null values.
+2026-05-31 07:15:06,546 - INFO - Starting Week 3 ETL pipeline.
+2026-05-31 07:15:06,546 - INFO - Requesting weather data for Louisville.
+2026-05-31 07:15:07,132 - INFO - Extracted 16 rows for Louisville.
+2026-05-31 07:15:07,133 - INFO - Requesting weather data for Lexington.
+2026-05-31 07:15:07,666 - INFO - Extracted 16 rows for Lexington.
+2026-05-31 07:15:07,667 - INFO - Requesting weather data for Bowling Green.
+2026-05-31 07:15:08,191 - INFO - Extracted 16 rows for Bowling Green.
+2026-05-31 07:15:08,197 - INFO - Saved raw extracted data to /Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/data/raw/open_meteo_raw.csv.
+2026-05-31 07:15:08,197 - INFO - Total raw rows extracted: 48.
+2026-05-31 07:15:08,197 - INFO - Starting transformation process.
+2026-05-31 07:15:08,206 - WARNING - Missing temperature values found in 3 records. Filling missing values using location-level average temperatures.
+2026-05-31 07:15:08,211 - INFO - Transformation complete. Transformed row count: 48.
+2026-05-31 07:15:08,211 - INFO - Starting data validation checks.
+2026-05-31 07:15:08,213 - ERROR - Week 3 ETL pipeline failed: Validation failed. Weather code contains null values.
+Traceback (most recent call last):
+  File "/Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/week3_etl_pipeline.py", line 663, in main
+    validate_weather_data(transformed_df, raw_row_count=len(raw_df))
+  File "/Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/week3_etl_pipeline.py", line 556, in validate_weather_data
+    raise ValueError("Validation failed. Weather code contains null values.")
+ValueError: Validation failed. Weather code contains null values.
+2026-05-31 07:20:43,720 - INFO - Starting Week 3 ETL pipeline.
+2026-05-31 07:20:43,725 - INFO - Requesting weather data for Louisville.
+2026-05-31 07:20:44,316 - INFO - Extracted 16 rows for Louisville.
+2026-05-31 07:20:44,316 - INFO - Requesting weather data for Lexington.
+2026-05-31 07:20:44,855 - INFO - Extracted 16 rows for Lexington.
+2026-05-31 07:20:44,856 - INFO - Requesting weather data for Bowling Green.
+2026-05-31 07:20:45,383 - INFO - Extracted 16 rows for Bowling Green.
+2026-05-31 07:20:45,391 - INFO - Saved raw extracted data to /Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/data/raw/open_meteo_raw.csv.
+2026-05-31 07:20:45,391 - INFO - Total raw rows extracted: 48.
+2026-05-31 07:20:45,391 - INFO - Starting transformation process.
+2026-05-31 07:20:45,400 - WARNING - Missing weather codes found in 3 records. Filling missing weather codes with -1 and labeling them as Unknown / Missing.
+2026-05-31 07:20:45,403 - WARNING - Missing temperature values found in 3 records. Filling missing values using location-level average temperatures.
+2026-05-31 07:20:45,409 - INFO - Transformation complete. Transformed row count: 48.
+2026-05-31 07:20:45,409 - INFO - Starting data validation checks.
+2026-05-31 07:20:45,412 - INFO - Validation passed: required columns are present.
+2026-05-31 07:20:45,412 - INFO - Validation passed: row counts match.
+2026-05-31 07:20:45,412 - INFO - Validation passed: no duplicate natural keys.
+2026-05-31 07:20:45,412 - INFO - Validation passed: no critical null values.
+2026-05-31 07:20:45,412 - INFO - Validation passed: range checks completed successfully.
+2026-05-31 07:20:45,412 - INFO - Validation passed: weather codes are present or clearly flagged as missing.
+2026-05-31 07:20:45,412 - INFO - Validation note: 3 records had temperature values filled.
+2026-05-31 07:20:45,412 - INFO - Validation note: 3 records had weather codes filled as Unknown / Missing.
+2026-05-31 07:20:45,414 - INFO - Processed analytics-ready data saved to /Users/josefkoressel/Library/CloudStorage/OneDrive-UniversityofLouisville/MSBA692/kentucky-utility-weather-pipeline/data/processed/weather_daily_processed.csv.
+2026-05-31 07:20:45,414 - INFO - Connecting to PostgreSQL database.
+2026-05-31 07:20:47,325 - INFO - Loaded 48 records to PostgreSQL table fact_weather_daily.
+2026-05-31 07:20:47,326 - INFO - Week 3 ETL pipeline completed successfully.
