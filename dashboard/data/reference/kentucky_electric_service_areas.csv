@@ -1,0 +1,1001 @@
+object_id,utility_id,company_name,utility_type,electric_type,service_class,shape_area,shape_length
+1,0.0,Fulton Electric & Gas Systems,0,Municipal,Municipal,201953632.96367735,86621.18121181642
+2,0.0,Hickman Electric & Gas Systems,0,Municipal,Municipal,77181462.65975505,134437.8752453397
+3,0.0,Hickman Electric & Gas Systems,0,Municipal,Municipal,1210934.4274975471,5395.96428995906
+4,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,9104593.21575116,12148.40823652682
+5,0.0,Hickman Electric & Gas Systems,0,Municipal,Municipal,65250826.78784799,54911.51846102676
+6,0.0,Gibson Electric Membership Corp.,0,TVA,TVA Gibson Electric Membership Corp.,747596932.6011974,100025.85690622649
+7,0.0,Murray Electric and Natural Gas Syst,0,Municipal,Municipal,204105689.89879093,83573.83262045427
+8,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,76546.7716170377,1063.2511661537924
+9,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,814130.5072920219,3368.255036106476
+10,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,16589983.151886048,22419.202594098933
+11,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,118521001.62781414,62379.91361505546
+12,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,70443.6545145116,1018.5317461015778
+13,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,18456267.20489875,19652.24724633241
+14,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,42748.51467007395,940.5500598595432
+15,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,304195.8201824725,2227.7649449467276
+16,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,160911.78462814292,1564.1732940411364
+17,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,112403880.08474153,106725.69713697681
+18,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,499296.1631753134,2697.9346238473563
+19,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,6785661.250986192,17347.814201148012
+20,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,383950.4863899756,2670.9043844142866
+21,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,962148.1727514148,3803.213140349943
+22,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,201660649.73487157,83325.83558995785
+23,0.0,Jellico Electric & Water System,0,Municipal,Municipal,2366095463.6299825,218009.95324428153
+24,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,523885.3702593789,3479.5494006894733
+25,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1521147.5343709223,6998.096100055105
+26,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,28842901.11149426,46696.07663769543
+27,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,208765.00415205062,1775.260757994395
+28,0.0,Franklin Electric Plant Board,0,Municipal,Municipal,245221971.01942444,99511.02683727752
+29,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,505147172.4772094,110802.24925708635
+30,0.0,Mayfield Electric & Water Systems,0,Municipal,Municipal,265112522.78349593,90675.71143144944
+31,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,318716658.7909452,150284.8587003768
+32,0.0,Russellville Electric Plant Board,0,Municipal,Municipal,311230242.19115233,76857.06476830061
+33,0.0,Benton Electric & Gas Systems,0,Municipal,Municipal,86157305.80239797,90280.95453760629
+34,0.0,Hopkinsville Electric System,0,Municipal,Municipal,375168732.0018352,138377.16711176583
+35,0.0,Barbourville,0,Municipal,Municipal,354787325.64964664,155609.11217576955
+36,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2113448.3090123055,6227.244409024749
+37,0.0,Bardwell City Utilities,0,Municipal,Municipal,18344308.266208023,19144.65088224085
+38,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,418555.1639057755,2529.247684709085
+39,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,6582793.9144413415,13647.853609265361
+40,0.0,Corbin,0,Municipal,Municipal,130656911.46663159,70466.17410061712
+41,0.0,Gibson Electric Membership Corp.,0,TVA,TVA Gibson Electric Membership Corp.,13540110461.655909,1135328.8034243847
+42,0.0,Tri-County REMC,0,TVA,TVA Tri-County REMC,31719379331.899715,1356237.5086117445
+43,0.0,Benham City Utilities,0,Municipal,Municipal,45716803.50776757,23968.9148845555
+44,0.0,Bowling Green Municipal,0,Municipal,Municipal,725642316.3816684,216847.92553613783
+45,0.0,Glasgow Electric Plant Board,0,Municipal,Municipal,270736848.89225245,109794.03827557623
+46,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,20302907013.24551,1175886.2552873222
+47,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,173795755.07382375,102011.72730840341
+48,0.0,West Kentucky RECC,0,TVA,TVA West Kentucky RECC,35195933801.07583,1514648.4068258328
+49,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,13743869.845512344,17119.947990136654
+50,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,892788.0423528854,4891.81426915614
+51,1300.0,"Cumberland Valley Electric, Inc.",200,RECC,"RECC Cumberland Valley Electric, Inc.",21227672254.118065,1657808.5783652097
+52,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,15208450.85608099,17316.99748043224
+53,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1306764.2075141282,5122.3635391860025
+54,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,422309983.4302933,283581.6840936248
+55,2400.0,Jackson Purchase Energy Corporation,200,RECC,RECC Jackson Purchase Energy Corporation,346169315.2277003,79020.95422859481
+56,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,7419111.344384603,17337.326902432447
+57,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2360754.2875502566,6031.158515465899
+58,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,10173244.889759853,11739.156266691018
+59,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,471688.50056517613,2581.6676814456437
+60,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,103657593.04705386,55436.671422383166
+61,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,836046.11665183,4803.183296902883
+62,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,188237261.62956718,105877.54493705578
+63,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,22125161.187945556,28502.64718998331
+64,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2072956.7132648414,5850.605593667745
+65,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,736055.4527414034,3787.735298629333
+66,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,351062.49710801453,2804.97058670684
+67,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,281321.959421138,2089.973393144728
+68,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,362455179.1363205,113198.69923781743
+69,1300.0,"Cumberland Valley Electric, Inc.",200,RECC,"RECC Cumberland Valley Electric, Inc.",7406913363.450237,801912.3105774608
+70,0.0,Paducah Power System,0,Municipal,Municipal,1321950056.7798343,367033.392250708
+71,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1058102.8487885348,4065.2576702676174
+72,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3009322.46452203,7065.579137234205
+73,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,744364.5001955305,3415.183661796803
+74,0.0,Princeton Electric Plant Board,0,Municipal,Municipal,983337852.4082646,156373.60149212915
+75,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,32259.862307917163,674.2388238148413
+76,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4737743.047931751,11883.75003966556
+77,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,47334.02502036477,829.4990341239577
+78,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1357265.5107763282,8087.118808976706
+79,2300.0,Jackson Energy Cooperative,200,RECC,RECC Jackson Energy Cooperative,7460022.824681113,10890.616023502607
+80,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,42837772.99880781,29258.06128857442
+81,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2254640.4570051325,6257.525432466905
+82,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5890231.268897857,10071.657415773881
+83,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,65844414.649543695,56688.63771563974
+84,2300.0,Jackson Energy Cooperative,200,RECC,RECC Jackson Energy Cooperative,2347700.044962553,6407.127919770981
+85,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,65978100.432863794,47510.84472198901
+86,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,6432446.767221248,11799.663620515115
+87,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,367723044.00930965,120067.86428125417
+88,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,27217.788340010615,870.5123521285108
+89,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,436644919.2727416,164403.1064692271
+90,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,49805063.172589704,28603.011971238204
+91,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1579716357.3188412,570487.6710773109
+92,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,14866035.053785367,32018.82023750481
+93,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2294773991.7112727,693267.8327172011
+94,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,944996519.0510578,152448.47303751225
+95,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3196724.890173504,8842.255893547008
+96,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,2320399993.100416,252725.9242923478
+97,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2819972.3723612987,7453.222964473105
+98,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,70184186.71068935,49316.507496321676
+99,3200.0,Taylor County R.E.C.C.,200,RECC,RECC Taylor County R.E.C.C.,95486791.00719778,42712.64349952608
+100,3200.0,Taylor County R.E.C.C.,200,RECC,RECC Taylor County R.E.C.C.,3388690.0308085727,8230.720547206327
+101,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,140046984.20908907,80485.50389053755
+102,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,28751739.30271931,29761.971860560683
+103,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5947926.762207965,13392.829097806327
+104,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5844157.699942308,10300.032933044027
+105,2400.0,Jackson Purchase Energy Corporation,200,RECC,RECC Jackson Purchase Energy Corporation,3618896210.72277,353279.5428659904
+106,0.0,Pennyrile RECC,0,TVA,TVA Pennyrile RECC,67948844635.19183,1739052.3062822367
+107,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3768939.6387076033,8329.211819672055
+108,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,1955114.9943803686,6002.609819269376
+109,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,465210544.84863406,279168.1342806001
+110,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,7180191.558789147,13315.864424268231
+111,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,456463.5996950891,2565.2854571765906
+112,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3649729.7558135665,9807.873908250938
+113,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,47071.94459875062,943.7456683533082
+114,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,37090127.28585053,37639.41981479454
+115,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4756339.789090481,10565.71795692001
+116,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,74150.66258051882,1077.8038408582806
+117,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,104262.05527855914,1227.7015363392509
+118,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1668950.1259780957,5147.934861459177
+119,3200.0,Taylor County R.E.C.C.,200,RECC,RECC Taylor County R.E.C.C.,2892985.089021273,7998.2794132117015
+120,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,143347.97794548454,1515.731670527508
+121,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,34443.646189983025,781.1224596679007
+122,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,38901.289946155106,812.753898180164
+123,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,1076272598.258293,191265.32492636866
+124,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,981724.9450882137,3934.083199709214
+125,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5903220.479962927,10785.958641198049
+126,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,241926.3698065686,1963.725122148748
+127,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,137157957.29152375,89533.0887264134
+128,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,7001594.601793608,16849.632437183172
+129,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,332685.2141399578,2364.0839873222126
+130,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3417644408.4244843,664159.7806546724
+131,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,325516.159369478,2336.01326661997
+132,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,524689229.28523123,176246.1067104088
+133,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,58941360.30732422,53104.4168530642
+134,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,535443845.8139247,167791.77426875924
+135,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,159720933.6573165,54421.329264699816
+136,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,60237310757.54275,2425692.5511264578
+137,0.0,Providence Electric & Gas Dept.,0,Municipal,Municipal,85107271.09660149,32703.465577574443
+138,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,48616234.52096645,47626.846288529276
+139,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,49541297.537011065,55096.13838705541
+140,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,152349759.9478399,89075.39034984697
+141,0.0,Madisonville Municipal Light & Power,0,Municipal,Municipal,558887974.0773903,179987.7853544779
+142,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,28934838247.931923,2307634.981891459
+143,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,61014699.95965651,34447.34493295639
+144,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5577350.507344031,9121.267355966109
+145,2400.0,Jackson Purchase Energy Corporation,200,RECC,RECC Jackson Purchase Energy Corporation,21708776016.565018,1665379.4810142505
+146,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,37072308.50767701,27420.916837115223
+147,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,244867778.8498454,88059.46599307643
+148,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,318145.75969529466,2089.5372552214517
+149,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1754537.5941272615,5207.012426479741
+150,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,245608969.95413798,149498.73407173963
+151,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,137875.41510229878,1622.1612853502704
+152,3200.0,Taylor County R.E.C.C.,200,RECC,RECC Taylor County R.E.C.C.,28900030379.919266,1670030.0483138778
+153,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,7864411.588165518,13189.613756916568
+154,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,124776279.91019168,102836.7009675183
+155,2700.0,Nolin R.E.C.C.,200,RECC,RECC Nolin R.E.C.C.,21894249.175070565,18867.068688947733
+156,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,8003539.388825458,12236.31805060479
+157,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,215784104.0152622,94759.81243301954
+158,1000.0,Big Sandy R.E.C.C.,200,RECC,RECC Big Sandy R.E.C.C.,118460822.22479282,56960.48643015291
+159,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,661708226.8843327,222279.48163905903
+160,300.0,Kentucky Power Company,100,Investor Owned,Investor Owned Kentucky Power Company,5037810139.402302,1055759.5008138048
+161,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,74131475499.99142,4148344.602110777
+162,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,6885156974.750421,891204.8437203986
+163,2600.0,Meade County R.E.C.C.,200,RECC,RECC Meade County R.E.C.C.,465687727.4236457,124706.63096039848
+164,2600.0,Meade County R.E.C.C.,200,RECC,RECC Meade County R.E.C.C.,30825605.76473376,21977.740142298906
+165,500.0,Louisville Gas and Electric Company,100,Investor Owned,Investor Owned Louisville Gas and Electric Company,34939614.21242367,28303.51056810625
+166,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",653755194.8260942,154664.35848173033
+167,500.0,Louisville Gas and Electric Company,100,Investor Owned,Investor Owned Louisville Gas and Electric Company,9231790.499423586,16350.47955033336
+168,1000.0,Big Sandy R.E.C.C.,200,RECC,RECC Big Sandy R.E.C.C.,12840247838.423708,1762396.447614682
+169,2500.0,Licking Valley R.E.C.C.,200,RECC,RECC Licking Valley R.E.C.C.,28965179183.159954,1826426.957032917
+170,2900.0,Salt River Electric Cooperative,200,RECC,RECC Salt River Electric Cooperative,26807437129.953938,2192801.9621964945
+171,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,11536018614.866959,1250022.7431182824
+172,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",21682516954.14513,1302025.1164512231
+173,0.0,Frankfort Electric and Water Plant,0,Municipal,Municipal,1673547533.3168378,433737.691888425
+174,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",805540722.220593,194716.164490521
+175,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",248321409.55846503,97562.12096519105
+176,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,798574988.5010124,261253.61159861393
+177,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,120415500.35242578,93201.88803101884
+178,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,20703611582.346123,1654560.211427549
+179,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,383272124.86989075,207217.05738308717
+180,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,297877.1831504594,2031.3491930532957
+181,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,79130441.1671567,38866.508963574495
+182,0.0,Warren RECC,0,TVA,TVA Warren RECC,61042973862.58575,2414739.777962323
+183,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,433860398.32243377,187716.21665328587
+184,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,588740239.2988349,211819.77183150075
+185,0.0,Berea City Utilities,0,Municipal,Municipal,408691020.69105995,124650.28706050444
+186,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,23200732.18262329,22469.250745205074
+187,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,577195116.9835232,363069.24047153024
+188,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,12664356.881769583,17664.254969109516
+189,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,825952992.2814689,307468.9060574157
+190,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,143985222.08290574,56374.426825643044
+191,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,78715808.26692404,39300.40030939147
+192,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,104227730.20826373,62250.08666457097
+193,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,247459183.49643698,94340.46247089434
+194,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,22382738.78255141,18101.424943414433
+195,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,167350936.60513094,82336.28007137557
+196,300.0,Kentucky Power Company,100,Investor Owned,Investor Owned Kentucky Power Company,91409884.07771845,46986.490024860825
+197,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2264551.223571464,6594.325679352636
+198,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,444746.7818757265,2513.2377008920466
+199,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,77889554.09734717,49756.305429489905
+200,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4670113.850309882,12622.146451186967
+201,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5879496.607933344,10394.61940452626
+202,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,824899.1031344382,3374.9255491730305
+203,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,789993.3330603107,3411.340596936966
+204,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,20158544.306730364,20755.69352385015
+205,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,21873803.39637283,20026.672176008553
+206,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,76263056.25753696,45498.829723421644
+207,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,277980510.83376104,134418.1080643342
+208,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,22680792.52070685,19079.99749219808
+209,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,44172086.94269518,35395.57180667719
+210,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,251267634.22632912,172336.99107866606
+211,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,147891485.34218088,67780.03222679446
+212,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,242853270.58021054,112234.80556119932
+213,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,417304052.99572384,197236.34572239098
+214,2700.0,Nolin R.E.C.C.,200,RECC,RECC Nolin R.E.C.C.,2923180.667014279,10183.69281071995
+215,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,3895023286.4702067,623776.9273738103
+216,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1081516.5976824362,4668.203986754599
+217,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,270121533.33855754,136492.1064373424
+218,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,106442815.0710603,51795.11060493717
+219,2200.0,Inter-County Energy Cooperative,200,RECC,RECC Inter-County Energy Cooperative,32605225988.690174,2961477.8580633285
+220,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,13984460.810544474,16274.999577657956
+221,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4398902.968688128,8462.046630333125
+222,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,21246100.18445109,23349.25561183737
+223,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,8843850.828863628,11873.801983422918
+224,0.0,Owensboro Municipal Utilities,0,Municipal,Municipal,654255570.6098374,133634.32597529897
+225,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,10476740.507763091,16337.518275977187
+226,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4572540.331477451,8454.55625193276
+227,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,2766456031.276205,284197.5884479918
+228,2900.0,Salt River Electric Cooperative,200,RECC,RECC Salt River Electric Cooperative,222629967.51800707,74468.91645424071
+229,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,49241922.754357755,41023.78211407867
+230,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,18407415.48124917,18147.477426577098
+231,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2125871371.6862774,604621.654598385
+232,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,246851875.8443186,137379.62407056827
+233,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,133718149.21835919,78954.09651118028
+234,2200.0,Inter-County Energy Cooperative,200,RECC,RECC Inter-County Energy Cooperative,356955528.5170191,140427.98058154155
+235,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,48511988.72115961,50983.007629813495
+236,0.0,Bardstown Municipal Electric Light &,0,Municipal,Municipal,158520051.09484622,69111.02443571022
+237,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,918355615.4011391,363617.41947589937
+238,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,109225872.60170619,84928.00836247782
+239,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",205761643.610808,78635.98993122952
+240,2700.0,Nolin R.E.C.C.,200,RECC,RECC Nolin R.E.C.C.,20824616990.56252,2229832.955976633
+241,2300.0,Jackson Energy Cooperative,200,RECC,RECC Jackson Energy Cooperative,57019590126.26828,3263793.377678645
+242,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,43326311.196925335,32248.537492997242
+243,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,112586155.7166185,65508.881524164244
+244,0.0,Nicholasville Municipal Electric Sys,0,Municipal,Municipal,85211747.09164494,56528.23862769431
+245,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,407574225.2338873,192739.96203375614
+246,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,43456583.4571322,28194.011551018666
+247,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",76375675.74022849,39338.978339282556
+248,2600.0,Meade County R.E.C.C.,200,RECC,RECC Meade County R.E.C.C.,26977662696.259457,1093418.0133596545
+249,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",1852808866.6068397,267181.87695893645
+250,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",353475189.1074294,106084.49051560156
+251,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,73359441.52159533,38031.10633382884
+252,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",4834015508.186242,691817.9154435581
+253,0.0,Paris Combined Utilities,0,Municipal,Municipal,59322132.96189615,60706.094162646215
+254,0.0,Frankfort Electric and Water Plant,0,Municipal,Municipal,71212.47946765028,1096.2409374854803
+255,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1157152176.6060212,322110.23927986226
+256,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3034611765.645051,1162718.2051379762
+257,0.0,Olive Hill Municipal Lighting and Ga,0,Municipal,Municipal,127895769.21062684,62171.77524927968
+258,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,757986805.877425,279059.28854300105
+259,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",2469602171.496889,504780.68892742466
+260,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,2097057276.906622,325859.4906311503
+261,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,62608536.43562298,38298.11483831219
+262,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,909821991.2105097,209047.1812384652
+263,300.0,Kentucky Power Company,100,Investor Owned,Investor Owned Kentucky Power Company,3868423640.9833875,547077.3957695396
+264,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",3508035578.374797,570720.8158139349
+265,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1642559815.2129536,595731.232399681
+266,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,32760908790.779606,4926983.504412073
+267,500.0,Louisville Gas and Electric Company,100,Investor Owned,Investor Owned Louisville Gas and Electric Company,20489609883.599846,1458059.04613289
+268,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1057766159.9430753,412948.1518594
+269,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,78895017.86624391,41619.95441795958
+270,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,36489257.04464683,31983.691044741634
+271,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,438201541.20660466,267697.3217235113
+272,1600.0,Fleming-Mason Energy Cooperative,200,RECC,RECC Fleming-Mason Energy Cooperative,275749406.27986693,100112.13157186421
+273,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,390072948.6595892,173518.78860454852
+274,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,86372681.61698152,50410.82850193463
+275,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",108845770.80957703,63668.95723695376
+276,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,201071749.8959332,106070.07881572771
+277,0.0,Vanceburg Electric & Gas Systems,0,Municipal,Municipal,160444057.18204415,46464.97695379095
+278,0.0,Williamstown Utility Commission,0,Municipal,Municipal,247678758.6514966,124291.45435404815
+279,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2011397679.4513605,599802.2664981381
+280,0.0,Falmouth City Utilities,0,Municipal,Municipal,44730881.160580896,23709.05102489705
+281,1600.0,Fleming-Mason Energy Cooperative,200,RECC,RECC Fleming-Mason Energy Cooperative,36493687384.21482,1976869.650354216
+282,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",66157.17553204225,930.8312846112992
+283,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",9899957581.155008,1289142.939925546
+284,1800.0,Grayson R.E.C.C.,200,RECC,RECC Grayson R.E.C.C.,25061978447.5708,1694501.2146106877
+285,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1407739.2090945821,4224.407610135897
+286,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,302051.2468947944,1959.5188555132922
+287,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2705196407.696415,1032005.6611716184
+288,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,288399.27567037306,2323.1228496598524
+289,1600.0,Fleming-Mason Energy Cooperative,200,RECC,RECC Fleming-Mason Energy Cooperative,1042392919.3607218,186631.51660590377
+290,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3241451.3038344127,7565.598693326616
+291,300.0,Kentucky Power Company,100,Investor Owned,Investor Owned Kentucky Power Company,96450193507.84402,3894677.271504355
+292,1600.0,Fleming-Mason Energy Cooperative,200,RECC,RECC Fleming-Mason Energy Cooperative,226963074.93475133,76352.84685101328
+293,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,138108928.3458998,85180.09850909606
+294,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,21723473238.554226,1989121.882280366
+295,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2591939643.5185094,661229.210577338
+296,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,182582613.78188533,77232.51339079205
+297,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",123227999.2922223,62533.679989520526
+298,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",68592914.92962253,33542.48944033559
+299,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",88930197.42939857,42674.01626303433
+300,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",16148275.763310542,21763.455626540883
+301,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1305218440.9916732,473367.4751456185
+302,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",13502264.043119693,19225.33973961522
+303,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",100750240.2359221,68593.52098502425
+304,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",522580611.31438106,111508.3956136564
+305,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",7124318780.684466,921534.4604245921
+306,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",22203516510.59353,1877683.2091468219
+307,800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",75855778.62556297,69358.45824246433
+308,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",49716062.77628673,31858.24572401315
+309,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",28315211.430637535,30120.35150877079
+310,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",853212149.9762051,177879.4345068873
+311,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",43221795.86800498,28899.606281254768
+312,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",372322555.472487,133934.50958769544
+313,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",6273.528140130428,323.65405238119246
+314,0.0,Henderson Municipal Power & Light,0,Municipal,Municipal,534672916.34826547,157370.24181052155
+315,1001200.0,"Duke Energy Kentucky, Inc.",100,Investor Owned,"Investor Owned Duke Energy Kentucky, Inc.",8174053979.399236,1872535.993978153
+316,2700.0,Nolin R.E.C.C.,200,RECC,RECC Nolin R.E.C.C.,166480.27026334728,1614.8450600375727
+317,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,788883555.2695733,326678.738036398
+318,0.0,Fulton Electric & Gas Systems,0,Municipal,Municipal,201953632.96367735,86621.18121181642
+319,0.0,Hickman Electric & Gas Systems,0,Municipal,Municipal,77181462.65975505,134437.8752453397
+320,0.0,Hickman Electric & Gas Systems,0,Municipal,Municipal,1210934.4274975471,5395.96428995906
+321,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,9104593.21575116,12148.40823652682
+322,0.0,Hickman Electric & Gas Systems,0,Municipal,Municipal,65250826.78784799,54911.51846102676
+323,0.0,Gibson Electric Membership Corp.,0,TVA,TVA Gibson Electric Membership Corp.,747596932.6011974,100025.85690622649
+324,0.0,Murray Electric and Natural Gas Syst,0,Municipal,Municipal,204105689.89879093,83573.83262045427
+325,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,76546.7716170377,1063.2511661537924
+326,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,814130.5072920219,3368.255036106476
+327,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,16589983.151886048,22419.202594098933
+328,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,118521001.62781414,62379.91361505546
+329,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,70443.6545145116,1018.5317461015778
+330,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,18456267.20489875,19652.24724633241
+331,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,42748.51467007395,940.5500598595432
+332,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,304195.8201824725,2227.7649449467276
+333,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,160911.78462814292,1564.1732940411364
+334,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,112403880.08474153,106725.69713697681
+335,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,499296.1631753134,2697.9346238473563
+336,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,6785661.250986192,17347.814201148012
+337,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,383950.4863899756,2670.9043844142866
+338,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,962148.1727514148,3803.213140349943
+339,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,201660649.73487157,83325.83558995785
+340,0.0,Jellico Electric & Water System,0,Municipal,Municipal,2366095463.6299825,218009.95324428153
+341,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,523885.3702593789,3479.5494006894733
+342,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1521147.5343709223,6998.096100055105
+343,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,28842901.11149426,46696.07663769543
+344,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,208765.00415205062,1775.260757994395
+345,0.0,Franklin Electric Plant Board,0,Municipal,Municipal,245221971.01942444,99511.02683727752
+346,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,505147172.4772094,110802.24925708635
+347,0.0,Mayfield Electric & Water Systems,0,Municipal,Municipal,265112522.78349593,90675.71143144944
+348,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,318716658.7909452,150284.8587003768
+349,0.0,Russellville Electric Plant Board,0,Municipal,Municipal,311230242.19115233,76857.06476830061
+350,0.0,Benton Electric & Gas Systems,0,Municipal,Municipal,86157305.80239797,90280.95453760629
+351,0.0,Hopkinsville Electric System,0,Municipal,Municipal,375168732.0018352,138377.16711176583
+352,0.0,Barbourville,0,Municipal,Municipal,354787325.64964664,155609.11217576955
+353,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2113448.3090123055,6227.244409024749
+354,0.0,Bardwell City Utilities,0,Municipal,Municipal,18344308.266208023,19144.65088224085
+355,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,418555.1639057755,2529.247684709085
+356,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,6582793.9144413415,13647.853609265361
+357,0.0,Corbin,0,Municipal,Municipal,130656911.46663159,70466.17410061712
+358,0.0,Gibson Electric Membership Corp.,0,TVA,TVA Gibson Electric Membership Corp.,13540110461.655909,1135328.8034243847
+359,0.0,Tri-County REMC,0,TVA,TVA Tri-County REMC,31719379331.899715,1356237.5086117445
+360,0.0,Benham City Utilities,0,Municipal,Municipal,45716803.50776757,23968.9148845555
+361,0.0,Bowling Green Municipal,0,Municipal,Municipal,725642316.3816684,216847.92553613783
+362,0.0,Glasgow Electric Plant Board,0,Municipal,Municipal,270736848.89225245,109794.03827557623
+363,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,20302907013.24551,1175886.2552873222
+364,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,173795755.07382375,102011.72730840341
+365,0.0,West Kentucky RECC,0,TVA,TVA West Kentucky RECC,35195933801.07583,1514648.4068258328
+366,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,13743869.845512344,17119.947990136654
+367,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,892788.0423528854,4891.81426915614
+368,1300.0,"Cumberland Valley Electric, Inc.",200,RECC,"RECC Cumberland Valley Electric, Inc.",21227672254.118065,1657808.5783652097
+369,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,15208450.85608099,17316.99748043224
+370,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1306764.2075141282,5122.3635391860025
+371,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,422309983.4302933,283581.6840936248
+372,2400.0,Jackson Purchase Energy Corporation,200,RECC,RECC Jackson Purchase Energy Corporation,346169315.2277003,79020.95422859481
+373,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,7419111.344384603,17337.326902432447
+374,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2360754.2875502566,6031.158515465899
+375,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,10173244.889759853,11739.156266691018
+376,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,471688.50056517613,2581.6676814456437
+377,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,103657593.04705386,55436.671422383166
+378,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,836046.11665183,4803.183296902883
+379,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,188237261.62956718,105877.54493705578
+380,2300.0,Jackson Energy Cooperative,200,Multi-Service A,Multi-Service A Jackson Energy Cooperative,25974553.271030854,22898.141785212858
+381,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,22125161.187945556,28502.64718998331
+382,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2072956.7132648414,5850.605593667745
+383,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,736055.4527414034,3787.735298629333
+384,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,351062.49710801453,2804.97058670684
+385,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,281321.959421138,2089.973393144728
+386,2300.0,Jackson Energy Cooperative,200,Multi-Service A,Multi-Service A Jackson Energy Cooperative,152846583.6659456,79400.04774703864
+387,1300.0,"Cumberland Valley Electric, Inc.",200,RECC,"RECC Cumberland Valley Electric, Inc.",7406913363.450237,801912.3105774608
+388,0.0,Paducah Power System,0,Municipal,Municipal,1321950056.7798343,367033.392250708
+389,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1058102.8487885348,4065.2576702676174
+390,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3009322.46452203,7065.579137234205
+391,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,744364.5001955305,3415.183661796803
+392,0.0,Princeton Electric Plant Board,0,Municipal,Municipal,983337852.4082646,156373.60149212915
+393,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,32259.862307917163,674.2388238148413
+394,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4737743.047931751,11883.75003966556
+395,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,47334.02502036477,829.4990341239577
+396,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1357265.5107763282,8087.118808976706
+397,2300.0,Jackson Energy Cooperative,200,RECC,RECC Jackson Energy Cooperative,7460022.824681113,10890.616023502607
+398,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,42837772.99880781,29258.06128857442
+399,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2254640.4570051325,6257.525432466905
+400,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5890231.268897857,10071.657415773881
+401,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,65844414.649543695,56688.63771563974
+402,2300.0,Jackson Energy Cooperative,200,RECC,RECC Jackson Energy Cooperative,2347700.044962553,6407.127919770981
+403,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,65978100.432863794,47510.84472198901
+404,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,6432446.767221248,11799.663620515115
+405,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,367723044.00930965,120067.86428125417
+406,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,27217.788340010615,870.5123521285108
+407,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,436644919.2727416,164403.1064692271
+408,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,49805063.172589704,28603.011971238204
+409,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1579716357.3188412,570487.6710773109
+410,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,14866035.053785367,32018.82023750481
+411,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2294773991.7112727,693267.8327172011
+412,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,944996519.0510578,152448.47303751225
+413,2300.0,Jackson Energy Cooperative,200,Multi-Service A,Multi-Service A Jackson Energy Cooperative,70034040.48918906,42284.490614974005
+414,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3196724.890173504,8842.255893547008
+415,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,2320399993.100416,252725.9242923478
+416,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2819972.3723612987,7453.222964473105
+417,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,70184186.71068935,49316.507496321676
+418,3200.0,Taylor County R.E.C.C.,200,RECC,RECC Taylor County R.E.C.C.,95486791.00719778,42712.64349952608
+419,3200.0,Taylor County R.E.C.C.,200,RECC,RECC Taylor County R.E.C.C.,3388690.0308085727,8230.720547206327
+420,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,140046984.20908907,80485.50389053755
+421,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,28751739.30271931,29761.971860560683
+422,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5947926.762207965,13392.829097806327
+423,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5844157.699942308,10300.032933044027
+424,2400.0,Jackson Purchase Energy Corporation,200,RECC,RECC Jackson Purchase Energy Corporation,3618896210.72277,353279.5428659904
+425,0.0,Pennyrile RECC,0,TVA,TVA Pennyrile RECC,67948844635.19183,1739052.3062822367
+426,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3768939.6387076033,8329.211819672055
+427,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,1955114.9943803686,6002.609819269376
+428,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,465210544.84863406,279168.1342806001
+429,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,7180191.558789147,13315.864424268231
+430,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,456463.5996950891,2565.2854571765906
+431,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3649729.7558135665,9807.873908250938
+432,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,47071.94459875062,943.7456683533082
+433,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,37090127.28585053,37639.41981479454
+434,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4756339.789090481,10565.71795692001
+435,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,74150.66258051882,1077.8038408582806
+436,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,104262.05527855914,1227.7015363392509
+437,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1668950.1259780957,5147.934861459177
+438,3200.0,Taylor County R.E.C.C.,200,RECC,RECC Taylor County R.E.C.C.,2892985.089021273,7998.2794132117015
+439,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,143347.97794548454,1515.731670527508
+440,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,34443.646189983025,781.1224596679007
+441,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,38901.289946155106,812.753898180164
+442,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,1076272598.258293,191265.32492636866
+443,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,981724.9450882137,3934.083199709214
+444,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5903220.479962927,10785.958641198049
+445,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,241926.3698065686,1963.725122148748
+446,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,137157957.29152375,89533.0887264134
+447,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,7001594.601793608,16849.632437183172
+448,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,332685.2141399578,2364.0839873222126
+449,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3417644408.4244843,664159.7806546724
+450,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,325516.159369478,2336.01326661997
+451,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,524689229.28523123,176246.1067104088
+452,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,58941360.30732422,53104.4168530642
+453,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,535443845.8139247,167791.77426875924
+454,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,159720933.6573165,54421.329264699816
+455,0.0,Providence Electric & Gas Dept.,0,Municipal,Municipal,85107271.09660149,32703.465577574443
+456,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,48616234.52096645,47626.846288529276
+457,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,49541297.537011065,55096.13838705541
+458,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,152349759.9478399,89075.39034984697
+459,0.0,Madisonville Municipal Light & Power,0,Municipal,Municipal,558887974.0773903,179987.7853544779
+460,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,28934838247.931923,2307634.981891459
+461,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,61014699.95965651,34447.34493295639
+462,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5577350.507344031,9121.267355966109
+463,2400.0,Jackson Purchase Energy Corporation,200,RECC,RECC Jackson Purchase Energy Corporation,21708776016.565018,1665379.4810142505
+464,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,37072308.50767701,27420.916837115223
+465,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,244867778.8498454,88059.46599307643
+466,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,318145.75969529466,2089.5372552214517
+467,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1754537.5941272615,5207.012426479741
+468,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,245608969.95413798,149498.73407173963
+469,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,137875.41510229878,1622.1612853502704
+470,3200.0,Taylor County R.E.C.C.,200,RECC,RECC Taylor County R.E.C.C.,28900030379.919266,1670030.0483138778
+471,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,7864411.588165518,13189.613756916568
+472,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,124776279.91019168,102836.7009675183
+473,2700.0,Nolin R.E.C.C.,200,RECC,RECC Nolin R.E.C.C.,21894249.175070565,18867.068688947733
+474,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,8003539.388825458,12236.31805060479
+475,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,215784104.0152622,94759.81243301954
+476,1000.0,Big Sandy R.E.C.C.,200,RECC,RECC Big Sandy R.E.C.C.,118460822.22479282,56960.48643015291
+477,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,661708226.8843327,222279.48163905903
+478,300.0,Kentucky Power Company,100,Investor Owned,Investor Owned Kentucky Power Company,5037810139.402302,1055759.5008138048
+479,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,74131475499.99142,4148344.602110777
+480,2600.0,Meade County R.E.C.C.,200,RECC,RECC Meade County R.E.C.C.,465687727.4236457,124706.63096039848
+481,2600.0,Meade County R.E.C.C.,200,RECC,RECC Meade County R.E.C.C.,30825605.76473376,21977.740142298906
+482,500.0,Louisville Gas and Electric Company,100,Investor Owned,Investor Owned Louisville Gas and Electric Company,34939614.21242367,28303.51056810625
+483,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",653755194.8260942,154664.35848173033
+484,500.0,Louisville Gas and Electric Company,100,Investor Owned,Investor Owned Louisville Gas and Electric Company,9231790.499423586,16350.47955033336
+485,1000.0,Big Sandy R.E.C.C.,200,RECC,RECC Big Sandy R.E.C.C.,12840247838.423708,1762396.447614682
+486,2500.0,Licking Valley R.E.C.C.,200,RECC,RECC Licking Valley R.E.C.C.,28965179183.159954,1826426.957032917
+487,2900.0,Salt River Electric Cooperative,200,RECC,RECC Salt River Electric Cooperative,26807437129.953938,2192801.9621964945
+488,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,11536018614.866959,1250022.7431182824
+489,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",21682516954.14513,1302025.1164512231
+490,0.0,Frankfort Electric and Water Plant,0,Municipal,Municipal,1673547533.3168378,433737.691888425
+491,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",805540722.220593,194716.164490521
+492,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",248321409.55846503,97562.12096519105
+493,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,798574988.5010124,261253.61159861393
+494,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,120415500.35242578,93201.88803101884
+495,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,20703611582.346123,1654560.211427549
+496,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,383272124.86989075,207217.05738308717
+497,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,297877.1831504594,2031.3491930532957
+498,2300.0,Jackson Energy Cooperative,200,Multi-Service A,Multi-Service A Jackson Energy Cooperative,200360540.232291,108751.22822709152
+499,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,79130441.1671567,38866.508963574495
+500,0.0,Warren RECC,0,TVA,TVA Warren RECC,61042973862.58575,2414739.777962323
+501,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,433860398.32243377,187716.21665328587
+502,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,588740239.2988349,211819.77183150075
+503,0.0,Berea City Utilities,0,Municipal,Municipal,408691020.69105995,124650.28706050444
+504,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,23200732.18262329,22469.250745205074
+505,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,12664356.881769583,17664.254969109516
+506,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,825952992.2814689,307468.9060574157
+507,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,143985222.08290574,56374.426825643044
+508,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,78715808.26692404,39300.40030939147
+509,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,104227730.20826373,62250.08666457097
+510,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,247459183.49643698,94340.46247089434
+511,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,22382738.78255141,18101.424943414433
+512,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,167350936.60513094,82336.28007137557
+513,300.0,Kentucky Power Company,100,Investor Owned,Investor Owned Kentucky Power Company,91409884.07771845,46986.490024860825
+514,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2264551.223571464,6594.325679352636
+515,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,444746.7818757265,2513.2377008920466
+516,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,77889554.09734717,49756.305429489905
+517,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4670113.850309882,12622.146451186967
+518,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5879496.607933344,10394.61940452626
+519,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,824899.1031344382,3374.9255491730305
+520,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,789993.3330603107,3411.340596936966
+521,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,20158544.306730364,20755.69352385015
+522,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,21873803.39637283,20026.672176008553
+523,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,76263056.25753696,45498.829723421644
+524,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,277980510.83376104,134418.1080643342
+525,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,22680792.52070685,19079.99749219808
+526,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,44172086.94269518,35395.57180667719
+527,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,251267634.22632912,172336.99107866606
+528,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,147891485.34218088,67780.03222679446
+529,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,242853270.58021054,112234.80556119932
+530,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,417304052.99572384,197236.34572239098
+531,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,3895023286.4702067,623776.9273738103
+532,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1081516.5976824362,4668.203986754599
+533,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,270121533.33855754,136492.1064373424
+534,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,106442815.0710603,51795.11060493717
+535,2200.0,Inter-County Energy Cooperative,200,RECC,RECC Inter-County Energy Cooperative,32605225988.690174,2961477.8580633285
+536,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,13984460.810544474,16274.999577657956
+537,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4398902.968688128,8462.046630333125
+538,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,21246100.18445109,23349.25561183737
+539,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,8843850.828863628,11873.801983422918
+540,0.0,Owensboro Municipal Utilities,0,Municipal,Municipal,654255570.6098374,133634.32597529897
+541,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,10476740.507763091,16337.518275977187
+542,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4572540.331477451,8454.55625193276
+543,2900.0,Salt River Electric Cooperative,200,RECC,RECC Salt River Electric Cooperative,222629967.51800707,74468.91645424071
+544,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,49241922.754357755,41023.78211407867
+545,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,18407415.48124917,18147.477426577098
+546,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,246851875.8443186,137379.62407056827
+547,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,133718149.21835919,78954.09651118028
+548,2200.0,Inter-County Energy Cooperative,200,RECC,RECC Inter-County Energy Cooperative,356955528.5170191,140427.98058154155
+549,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,48511988.72115961,50983.007629813495
+550,0.0,Bardstown Municipal Electric Light &,0,Municipal,Municipal,158520051.09484622,69111.02443571022
+551,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,918355615.4011391,363617.41947589937
+552,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,109225872.60170619,84928.00836247782
+553,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",205761643.610808,78635.98993122952
+554,2300.0,Jackson Energy Cooperative,200,RECC,RECC Jackson Energy Cooperative,57019590126.26828,3263793.377678645
+555,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,43326311.196925335,32248.537492997242
+556,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,112586155.7166185,65508.881524164244
+557,0.0,Nicholasville Municipal Electric Sys,0,Municipal,Municipal,85211747.09164494,56528.23862769431
+558,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,407574225.2338873,192739.96203375614
+559,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,43456583.4571322,28194.011551018666
+560,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",76375675.74022849,39338.978339282556
+561,2600.0,Meade County R.E.C.C.,200,RECC,RECC Meade County R.E.C.C.,26977662696.259457,1093418.0133596545
+562,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",1852808866.6068397,267181.87695893645
+563,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",353475189.1074294,106084.49051560156
+564,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,73359441.52159533,38031.10633382884
+565,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",4834015508.186242,691817.9154435581
+566,0.0,Paris Combined Utilities,0,Municipal,Municipal,59322132.96189615,60706.094162646215
+567,0.0,Frankfort Electric and Water Plant,0,Municipal,Municipal,71212.47946765028,1096.2409374854803
+568,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1157152176.6060212,322110.23927986226
+569,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3034611765.645051,1162718.2051379762
+570,0.0,Olive Hill Municipal Lighting and Ga,0,Municipal,Municipal,127895769.21062684,62171.77524927968
+571,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,757986805.877425,279059.28854300105
+572,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",2469602171.496889,504780.68892742466
+573,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,2097057276.906622,325859.4906311503
+574,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,62608536.43562298,38298.11483831219
+575,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,909821991.2105097,209047.1812384652
+576,300.0,Kentucky Power Company,100,Investor Owned,Investor Owned Kentucky Power Company,3868423640.9833875,547077.3957695396
+577,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",3508035578.374797,570720.8158139349
+578,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1642559815.2129536,595731.232399681
+579,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1057766159.9430753,412948.1518594
+580,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,78895017.86624391,41619.95441795958
+581,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,36489257.04464683,31983.691044741634
+582,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,438201541.20660466,267697.3217235113
+583,1600.0,Fleming-Mason Energy Cooperative,200,RECC,RECC Fleming-Mason Energy Cooperative,275749406.27986693,100112.13157186421
+584,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,390072948.6595892,173518.78860454852
+585,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",108845770.80957703,63668.95723695376
+586,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,201071749.8959332,106070.07881572771
+587,0.0,Vanceburg Electric & Gas Systems,0,Municipal,Municipal,160444057.18204415,46464.97695379095
+588,0.0,Williamstown Utility Commission,0,Municipal,Municipal,247678758.6514966,124291.45435404815
+589,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2011397679.4513605,599802.2664981381
+590,0.0,Falmouth City Utilities,0,Municipal,Municipal,44730881.160580896,23709.05102489705
+591,1600.0,Fleming-Mason Energy Cooperative,200,RECC,RECC Fleming-Mason Energy Cooperative,36493687384.21482,1976869.650354216
+592,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",66157.17553204225,930.8312846112992
+593,1800.0,Grayson R.E.C.C.,200,RECC,RECC Grayson R.E.C.C.,25061978447.5708,1694501.2146106877
+594,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1407739.2090945821,4224.407610135897
+595,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,302051.2468947944,1959.5188555132922
+596,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2705196407.696415,1032005.6611716184
+597,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,288399.27567037306,2323.1228496598524
+598,1600.0,Fleming-Mason Energy Cooperative,200,RECC,RECC Fleming-Mason Energy Cooperative,1042392919.3607218,186631.51660590377
+599,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3241451.3038344127,7565.598693326616
+600,300.0,Kentucky Power Company,100,Investor Owned,Investor Owned Kentucky Power Company,96450193507.84402,3894677.271504355
+601,1600.0,Fleming-Mason Energy Cooperative,200,RECC,RECC Fleming-Mason Energy Cooperative,226963074.93475133,76352.84685101328
+602,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,21723473238.554226,1989121.882280366
+603,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2591939643.5185094,661229.210577338
+604,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,182582613.78188533,77232.51339079205
+605,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",123227999.2922223,62533.679989520526
+606,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",68592914.92962253,33542.48944033559
+607,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",88930197.42939857,42674.01626303433
+608,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",16148275.763310542,21763.455626540883
+609,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1305218440.9916732,473367.4751456185
+610,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",13502264.043119693,19225.33973961522
+611,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",100750240.2359221,68593.52098502425
+612,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",522580611.31438106,111508.3956136564
+613,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",7124318780.684466,921534.4604245921
+614,800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",75855778.62556297,69358.45824246433
+615,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",49716062.77628673,31858.24572401315
+616,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",28315211.430637535,30120.35150877079
+617,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",853212149.9762051,177879.4345068873
+618,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",43221795.86800498,28899.606281254768
+619,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",372322555.472487,133934.50958769544
+620,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",6273.528140130428,323.65405238119246
+621,0.0,Henderson Municipal Power & Light,0,Municipal,Municipal,534672916.34826547,157370.24181052155
+622,1001200.0,"Duke Energy Kentucky, Inc.",100,Investor Owned,"Investor Owned Duke Energy Kentucky, Inc.",8174053979.399236,1872535.993978153
+623,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,86372681.61698152,50410.82850193463
+624,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,32760908790.779606,4926983.504412073
+625,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,6885156974.750421,891204.8437203986
+626,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,138108928.3458998,85180.09850909606
+627,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",22203516510.59353,1877683.2091468219
+628,2700.0,Nolin R.E.C.C.,200,RECC,RECC Nolin R.E.C.C.,2923180.667014279,10183.69281071995
+629,2700.0,Nolin R.E.C.C.,200,RECC,RECC Nolin R.E.C.C.,166480.27026334728,1614.8450600375727
+630,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,788883555.2695733,326678.738036398
+631,2700.0,Nolin R.E.C.C.,200,RECC,RECC Nolin R.E.C.C.,20824616990.56252,2229832.955976633
+632,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,577195116.9835232,363069.24047153024
+633,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,60237310757.54275,2425692.5511264578
+634,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,362455179.1363205,113198.69923781743
+635,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",9899957581.155008,1289142.939925546
+636,500.0,Louisville Gas and Electric Company,100,Investor Owned,Investor Owned Louisville Gas and Electric Company,20489609883.599846,1458059.04613289
+637,0.0,Fulton Electric & Gas Systems,0,Municipal,Municipal,201953632.96367735,86621.18121181642
+638,0.0,Hickman Electric & Gas Systems,0,Municipal,Municipal,77181462.65975505,134437.8752453397
+639,0.0,Hickman Electric & Gas Systems,0,Municipal,Municipal,1210934.4274975471,5395.96428995906
+640,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,9104593.21575116,12148.40823652682
+641,0.0,Hickman Electric & Gas Systems,0,Municipal,Municipal,65250826.78784799,54911.51846102676
+642,0.0,Gibson Electric Membership Corp.,0,TVA,TVA Gibson Electric Membership Corp.,747596932.6011974,100025.85690622649
+643,0.0,Murray Electric and Natural Gas Syst,0,Municipal,Municipal,204105689.89879093,83573.83262045427
+644,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,76546.7716170377,1063.2511661537924
+645,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,814130.5072920219,3368.255036106476
+646,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,16589983.151886048,22419.202594098933
+647,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,118521001.62781414,62379.91361505546
+648,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,70443.6545145116,1018.5317461015778
+649,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,18456267.20489875,19652.24724633241
+650,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,42748.51467007395,940.5500598595432
+651,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,304195.8201824725,2227.7649449467276
+652,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,160911.78462814292,1564.1732940411364
+653,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,112403880.08474153,106725.69713697681
+654,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,499296.1631753134,2697.9346238473563
+655,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,6785661.250986192,17347.814201148012
+656,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,383950.4863899756,2670.9043844142866
+657,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,962148.1727514148,3803.213140349943
+658,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,201660649.73487157,83325.83558995785
+659,0.0,Jellico Electric & Water System,0,Municipal,Municipal,2366095463.6299825,218009.95324428153
+660,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,523885.3702593789,3479.5494006894733
+661,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1521147.5343709223,6998.096100055105
+662,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,28842901.11149426,46696.07663769543
+663,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,208765.00415205062,1775.260757994395
+664,0.0,Franklin Electric Plant Board,0,Municipal,Municipal,245221971.01942444,99511.02683727752
+665,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,505147172.4772094,110802.24925708635
+666,0.0,Mayfield Electric & Water Systems,0,Municipal,Municipal,265112522.78349593,90675.71143144944
+667,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,318716658.7909452,150284.8587003768
+668,0.0,Russellville Electric Plant Board,0,Municipal,Municipal,311230242.19115233,76857.06476830061
+669,0.0,Benton Electric & Gas Systems,0,Municipal,Municipal,86157305.80239797,90280.95453760629
+670,0.0,Hopkinsville Electric System,0,Municipal,Municipal,375168732.0018352,138377.16711176583
+671,0.0,Barbourville,0,Municipal,Municipal,354787325.64964664,155609.11217576955
+672,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2113448.3090123055,6227.244409024749
+673,0.0,Bardwell City Utilities,0,Municipal,Municipal,18344308.266208023,19144.65088224085
+674,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,418555.1639057755,2529.247684709085
+675,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,6582793.9144413415,13647.853609265361
+676,0.0,Corbin,0,Municipal,Municipal,130656911.46663159,70466.17410061712
+677,0.0,Gibson Electric Membership Corp.,0,TVA,TVA Gibson Electric Membership Corp.,13540110461.655909,1135328.8034243847
+678,0.0,Tri-County REMC,0,TVA,TVA Tri-County REMC,31719379331.899715,1356237.5086117445
+679,0.0,Benham City Utilities,0,Municipal,Municipal,45716803.50776757,23968.9148845555
+680,0.0,Bowling Green Municipal,0,Municipal,Municipal,725642316.3816684,216847.92553613783
+681,0.0,Glasgow Electric Plant Board,0,Municipal,Municipal,270736848.89225245,109794.03827557623
+682,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,20302907013.24551,1175886.2552873222
+683,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,173795755.07382375,102011.72730840341
+684,0.0,West Kentucky RECC,0,TVA,TVA West Kentucky RECC,35195933801.07583,1514648.4068258328
+685,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,13743869.845512344,17119.947990136654
+686,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,892788.0423528854,4891.81426915614
+687,1300.0,"Cumberland Valley Electric, Inc.",200,RECC,"RECC Cumberland Valley Electric, Inc.",21227672254.118065,1657808.5783652097
+688,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,15208450.85608099,17316.99748043224
+689,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1306764.2075141282,5122.3635391860025
+690,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,422309983.4302933,283581.6840936248
+691,2400.0,Jackson Purchase Energy Corporation,200,RECC,RECC Jackson Purchase Energy Corporation,346169315.2277003,79020.95422859481
+692,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,7419111.344384603,17337.326902432447
+693,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2360754.2875502566,6031.158515465899
+694,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,10173244.889759853,11739.156266691018
+695,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,471688.50056517613,2581.6676814456437
+696,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,103657593.04705386,55436.671422383166
+697,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,836046.11665183,4803.183296902883
+698,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,188237261.62956718,105877.54493705578
+699,2300.0,Jackson Energy Cooperative,200,Multi-Service A,Multi-Service A Jackson Energy Cooperative,25974553.271030854,22898.141785212858
+700,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,22125161.187945556,28502.64718998331
+701,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2072956.7132648414,5850.605593667745
+702,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,736055.4527414034,3787.735298629333
+703,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,351062.49710801453,2804.97058670684
+704,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,281321.959421138,2089.973393144728
+705,2300.0,Jackson Energy Cooperative,200,Multi-Service A,Multi-Service A Jackson Energy Cooperative,152846583.6659456,79400.04774703864
+706,1300.0,"Cumberland Valley Electric, Inc.",200,RECC,"RECC Cumberland Valley Electric, Inc.",7406913363.450237,801912.3105774608
+707,0.0,Paducah Power System,0,Municipal,Municipal,1321950056.7798343,367033.392250708
+708,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1058102.8487885348,4065.2576702676174
+709,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3009322.46452203,7065.579137234205
+710,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,744364.5001955305,3415.183661796803
+711,0.0,Princeton Electric Plant Board,0,Municipal,Municipal,983337852.4082646,156373.60149212915
+712,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,32259.862307917163,674.2388238148413
+713,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4737743.047931751,11883.75003966556
+714,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,47334.02502036477,829.4990341239577
+715,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1357265.5107763282,8087.118808976706
+716,2300.0,Jackson Energy Cooperative,200,RECC,RECC Jackson Energy Cooperative,7460022.824681113,10890.616023502607
+717,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,42837772.99880781,29258.06128857442
+718,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2254640.4570051325,6257.525432466905
+719,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5890231.268897857,10071.657415773881
+720,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,65844414.649543695,56688.63771563974
+721,2300.0,Jackson Energy Cooperative,200,RECC,RECC Jackson Energy Cooperative,2347700.044962553,6407.127919770981
+722,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,65978100.432863794,47510.84472198901
+723,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,6432446.767221248,11799.663620515115
+724,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,367723044.00930965,120067.86428125417
+725,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,27217.788340010615,870.5123521285108
+726,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,436644919.2727416,164403.1064692271
+727,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,49805063.172589704,28603.011971238204
+728,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1579716357.3188412,570487.6710773109
+729,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,14866035.053785367,32018.82023750481
+730,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2294773991.7112727,693267.8327172011
+731,2300.0,Jackson Energy Cooperative,200,Multi-Service A,Multi-Service A Jackson Energy Cooperative,682671942.9826937,151109.19712006298
+732,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,944996519.0510578,152448.47303751225
+733,2300.0,Jackson Energy Cooperative,200,Multi-Service A,Multi-Service A Jackson Energy Cooperative,70034040.48918906,42284.490614974005
+734,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3196724.890173504,8842.255893547008
+735,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,2320399993.100416,252725.9242923478
+736,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2819972.3723612987,7453.222964473105
+737,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,70184186.71068935,49316.507496321676
+738,3200.0,Taylor County R.E.C.C.,200,RECC,RECC Taylor County R.E.C.C.,95486791.00719778,42712.64349952608
+739,3200.0,Taylor County R.E.C.C.,200,RECC,RECC Taylor County R.E.C.C.,3388690.0308085727,8230.720547206327
+740,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,140046984.20908907,80485.50389053755
+741,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,28751739.30271931,29761.971860560683
+742,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5947926.762207965,13392.829097806327
+743,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5844157.699942308,10300.032933044027
+744,2400.0,Jackson Purchase Energy Corporation,200,RECC,RECC Jackson Purchase Energy Corporation,3618896210.72277,353279.5428659904
+745,0.0,Pennyrile RECC,0,TVA,TVA Pennyrile RECC,67948844635.19183,1739052.3062822367
+746,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3768939.6387076033,8329.211819672055
+747,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,1955114.9943803686,6002.609819269376
+748,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,465210544.84863406,279168.1342806001
+749,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,7180191.558789147,13315.864424268231
+750,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,456463.5996950891,2565.2854571765906
+751,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3649729.7558135665,9807.873908250938
+752,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,47071.94459875062,943.7456683533082
+753,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,37090127.28585053,37639.41981479454
+754,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4756339.789090481,10565.71795692001
+755,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,74150.66258051882,1077.8038408582806
+756,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,104262.05527855914,1227.7015363392509
+757,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1668950.1259780957,5147.934861459177
+758,3200.0,Taylor County R.E.C.C.,200,RECC,RECC Taylor County R.E.C.C.,2892985.089021273,7998.2794132117015
+759,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,143347.97794548454,1515.731670527508
+760,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,34443.646189983025,781.1224596679007
+761,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,38901.289946155106,812.753898180164
+762,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,1076272598.258293,191265.32492636866
+763,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,981724.9450882137,3934.083199709214
+764,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5903220.479962927,10785.958641198049
+765,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,241926.3698065686,1963.725122148748
+766,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,137157957.29152375,89533.0887264134
+767,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,7001594.601793608,16849.632437183172
+768,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,332685.2141399578,2364.0839873222126
+769,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3417644408.4244843,664159.7806546724
+770,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,325516.159369478,2336.01326661997
+771,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,524689229.28523123,176246.1067104088
+772,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,58941360.30732422,53104.4168530642
+773,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,535443845.8139247,167791.77426875924
+774,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,159720933.6573165,54421.329264699816
+775,0.0,Providence Electric & Gas Dept.,0,Municipal,Municipal,85107271.09660149,32703.465577574443
+776,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,48616234.52096645,47626.846288529276
+777,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,49541297.537011065,55096.13838705541
+778,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,152349759.9478399,89075.39034984697
+779,0.0,Madisonville Municipal Light & Power,0,Municipal,Municipal,558887974.0773903,179987.7853544779
+780,1500.0,Farmers R.E.C.C.,200,RECC,RECC Farmers R.E.C.C.,28934838247.931923,2307634.981891459
+781,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,61014699.95965651,34447.34493295639
+782,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5577350.507344031,9121.267355966109
+783,2400.0,Jackson Purchase Energy Corporation,200,RECC,RECC Jackson Purchase Energy Corporation,21708776016.565018,1665379.4810142505
+784,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,37072308.50767701,27420.916837115223
+785,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,244867778.8498454,88059.46599307643
+786,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,318145.75969529466,2089.5372552214517
+787,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1754537.5941272615,5207.012426479741
+788,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,245608969.95413798,149498.73407173963
+789,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,137875.41510229878,1622.1612853502704
+790,3200.0,Taylor County R.E.C.C.,200,RECC,RECC Taylor County R.E.C.C.,28900030379.919266,1670030.0483138778
+791,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,7864411.588165518,13189.613756916568
+792,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,124776279.91019168,102836.7009675183
+793,2700.0,Nolin R.E.C.C.,200,RECC,RECC Nolin R.E.C.C.,21894249.175070565,18867.068688947733
+794,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,8003539.388825458,12236.31805060479
+795,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,215784104.0152622,94759.81243301954
+796,1000.0,Big Sandy R.E.C.C.,200,RECC,RECC Big Sandy R.E.C.C.,118460822.22479282,56960.48643015291
+797,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,661708226.8843327,222279.48163905903
+798,300.0,Kentucky Power Company,100,Investor Owned,Investor Owned Kentucky Power Company,5037810139.402302,1055759.5008138048
+799,2000100.0,Kenergy Corp,200,RECC,RECC Kenergy Corp,74131475499.99142,4148344.602110777
+800,2600.0,Meade County R.E.C.C.,200,RECC,RECC Meade County R.E.C.C.,465687727.4236457,124706.63096039848
+801,2600.0,Meade County R.E.C.C.,200,RECC,RECC Meade County R.E.C.C.,30825605.76473376,21977.740142298906
+802,500.0,Louisville Gas and Electric Company,100,Investor Owned,Investor Owned Louisville Gas and Electric Company,34939614.21242367,28303.51056810625
+803,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",653755194.8260942,154664.35848173033
+804,500.0,Louisville Gas and Electric Company,100,Investor Owned,Investor Owned Louisville Gas and Electric Company,9231790.499423586,16350.47955033336
+805,1000.0,Big Sandy R.E.C.C.,200,RECC,RECC Big Sandy R.E.C.C.,12840247838.423708,1762396.447614682
+806,2500.0,Licking Valley R.E.C.C.,200,RECC,RECC Licking Valley R.E.C.C.,28965179183.159954,1826426.957032917
+807,2900.0,Salt River Electric Cooperative,200,RECC,RECC Salt River Electric Cooperative,26807437129.953938,2192801.9621964945
+808,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,11536018614.866959,1250022.7431182824
+809,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",21682516954.14513,1302025.1164512231
+810,0.0,Frankfort Electric and Water Plant,0,Municipal,Municipal,1673547533.3168378,433737.691888425
+811,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",805540722.220593,194716.164490521
+812,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",248321409.55846503,97562.12096519105
+813,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,798574988.5010124,261253.61159861393
+814,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,120415500.35242578,93201.88803101884
+815,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,20703611582.346123,1654560.211427549
+816,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,383272124.86989075,207217.05738308717
+817,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,297877.1831504594,2031.3491930532957
+818,2300.0,Jackson Energy Cooperative,200,Multi-Service A,Multi-Service A Jackson Energy Cooperative,200360540.232291,108751.22822709152
+819,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,79130441.1671567,38866.508963574495
+820,0.0,Warren RECC,0,TVA,TVA Warren RECC,61042973862.58575,2414739.777962323
+821,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,433860398.32243377,187716.21665328587
+822,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,588740239.2988349,211819.77183150075
+823,0.0,Berea City Utilities,0,Municipal,Municipal,408691020.69105995,124650.28706050444
+824,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,23200732.18262329,22469.250745205074
+825,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,12664356.881769583,17664.254969109516
+826,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,825952992.2814689,307468.9060574157
+827,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,143985222.08290574,56374.426825643044
+828,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,78715808.26692404,39300.40030939147
+829,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,104227730.20826373,62250.08666457097
+830,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,247459183.49643698,94340.46247089434
+831,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,22382738.78255141,18101.424943414433
+832,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,167350936.60513094,82336.28007137557
+833,300.0,Kentucky Power Company,100,Investor Owned,Investor Owned Kentucky Power Company,91409884.07771845,46986.490024860825
+834,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2264551.223571464,6594.325679352636
+835,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,444746.7818757265,2513.2377008920466
+836,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,77889554.09734717,49756.305429489905
+837,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4670113.850309882,12622.146451186967
+838,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,5879496.607933344,10394.61940452626
+839,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,824899.1031344382,3374.9255491730305
+840,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,789993.3330603107,3411.340596936966
+841,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,20158544.306730364,20755.69352385015
+842,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,21873803.39637283,20026.672176008553
+843,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,76263056.25753696,45498.829723421644
+844,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,277980510.83376104,134418.1080643342
+845,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,22680792.52070685,19079.99749219808
+846,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,44172086.94269518,35395.57180667719
+847,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,251267634.22632912,172336.99107866606
+848,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,147891485.34218088,67780.03222679446
+849,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,242853270.58021054,112234.80556119932
+850,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,417304052.99572384,197236.34572239098
+851,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,3895023286.4702067,623776.9273738103
+852,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1081516.5976824362,4668.203986754599
+853,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,270121533.33855754,136492.1064373424
+854,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,106442815.0710603,51795.11060493717
+855,2200.0,Inter-County Energy Cooperative,200,RECC,RECC Inter-County Energy Cooperative,32605225988.690174,2961477.8580633285
+856,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,13984460.810544474,16274.999577657956
+857,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4398902.968688128,8462.046630333125
+858,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,21246100.18445109,23349.25561183737
+859,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,8843850.828863628,11873.801983422918
+860,0.0,Owensboro Municipal Utilities,0,Municipal,Municipal,654255570.6098374,133634.32597529897
+861,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,10476740.507763091,16337.518275977187
+862,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,4572540.331477451,8454.55625193276
+863,2900.0,Salt River Electric Cooperative,200,RECC,RECC Salt River Electric Cooperative,222629967.51800707,74468.91645424071
+864,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,49241922.754357755,41023.78211407867
+865,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,18407415.48124917,18147.477426577098
+866,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2125871371.6862774,604621.654598385
+867,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,246851875.8443186,137379.62407056827
+868,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,133718149.21835919,78954.09651118028
+869,2200.0,Inter-County Energy Cooperative,200,RECC,RECC Inter-County Energy Cooperative,356955528.5170191,140427.98058154155
+870,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,48511988.72115961,50983.007629813495
+871,0.0,Bardstown Municipal Electric Light &,0,Municipal,Municipal,158520051.09484622,69111.02443571022
+872,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,918355615.4011391,363617.41947589937
+873,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,109225872.60170619,84928.00836247782
+874,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",205761643.610808,78635.98993122952
+875,2300.0,Jackson Energy Cooperative,200,RECC,RECC Jackson Energy Cooperative,57019590126.26828,3263793.377678645
+876,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,43326311.196925335,32248.537492997242
+877,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,112586155.7166185,65508.881524164244
+878,0.0,Nicholasville Municipal Electric Sys,0,Municipal,Municipal,85211747.09164494,56528.23862769431
+879,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,407574225.2338873,192739.96203375614
+880,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,43456583.4571322,28194.011551018666
+881,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",76375675.74022849,39338.978339282556
+882,2600.0,Meade County R.E.C.C.,200,RECC,RECC Meade County R.E.C.C.,26977662696.259457,1093418.0133596545
+883,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",1852808866.6068397,267181.87695893645
+884,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",353475189.1074294,106084.49051560156
+885,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,73359441.52159533,38031.10633382884
+886,1200.0,"Clark Energy Cooperative, Inc.",200,RECC,"RECC Clark Energy Cooperative, Inc.",4834015508.186242,691817.9154435581
+887,0.0,Paris Combined Utilities,0,Municipal,Municipal,59322132.96189615,60706.094162646215
+888,0.0,Frankfort Electric and Water Plant,0,Municipal,Municipal,71212.47946765028,1096.2409374854803
+889,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1157152176.6060212,322110.23927986226
+890,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3034611765.645051,1162718.2051379762
+891,0.0,Olive Hill Municipal Lighting and Ga,0,Municipal,Municipal,127895769.21062684,62171.77524927968
+892,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,757986805.877425,279059.28854300105
+893,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",2469602171.496889,504780.68892742466
+894,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,2097057276.906622,325859.4906311503
+895,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,62608536.43562298,38298.11483831219
+896,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,909821991.2105097,209047.1812384652
+897,300.0,Kentucky Power Company,100,Investor Owned,Investor Owned Kentucky Power Company,3868423640.9833875,547077.3957695396
+898,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",3508035578.374797,570720.8158139349
+899,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1642559815.2129536,595731.232399681
+900,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1057766159.9430753,412948.1518594
+901,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,78895017.86624391,41619.95441795958
+902,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,36489257.04464683,31983.691044741634
+903,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,438201541.20660466,267697.3217235113
+904,1600.0,Fleming-Mason Energy Cooperative,200,RECC,RECC Fleming-Mason Energy Cooperative,275749406.27986693,100112.13157186421
+905,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,390072948.6595892,173518.78860454852
+906,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",108845770.80957703,63668.95723695376
+907,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,201071749.8959332,106070.07881572771
+908,0.0,Vanceburg Electric & Gas Systems,0,Municipal,Municipal,160444057.18204415,46464.97695379095
+909,0.0,Williamstown Utility Commission,0,Municipal,Municipal,247678758.6514966,124291.45435404815
+910,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2011397679.4513605,599802.2664981381
+911,0.0,Falmouth City Utilities,0,Municipal,Municipal,44730881.160580896,23709.05102489705
+912,1600.0,Fleming-Mason Energy Cooperative,200,RECC,RECC Fleming-Mason Energy Cooperative,36493687384.21482,1976869.650354216
+913,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",66157.17553204225,930.8312846112992
+914,1800.0,Grayson R.E.C.C.,200,RECC,RECC Grayson R.E.C.C.,25061978447.5708,1694501.2146106877
+915,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1407739.2090945821,4224.407610135897
+916,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,302051.2468947944,1959.5188555132922
+917,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2705196407.696415,1032005.6611716184
+918,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,288399.27567037306,2323.1228496598524
+919,1600.0,Fleming-Mason Energy Cooperative,200,RECC,RECC Fleming-Mason Energy Cooperative,1042392919.3607218,186631.51660590377
+920,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,3241451.3038344127,7565.598693326616
+921,300.0,Kentucky Power Company,100,Investor Owned,Investor Owned Kentucky Power Company,96450193507.84402,3894677.271504355
+922,1600.0,Fleming-Mason Energy Cooperative,200,RECC,RECC Fleming-Mason Energy Cooperative,226963074.93475133,76352.84685101328
+923,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,21723473238.554226,1989121.882280366
+924,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2591939643.5185094,661229.210577338
+925,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,182582613.78188533,77232.51339079205
+926,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",123227999.2922223,62533.679989520526
+927,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",68592914.92962253,33542.48944033559
+928,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",88930197.42939857,42674.01626303433
+929,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",16148275.763310542,21763.455626540883
+930,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1305218440.9916732,473367.4751456185
+931,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",13502264.043119693,19225.33973961522
+932,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",100750240.2359221,68593.52098502425
+933,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",522580611.31438106,111508.3956136564
+934,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",7124318780.684466,921534.4604245921
+935,800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",75855778.62556297,69358.45824246433
+936,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",49716062.77628673,31858.24572401315
+937,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",28315211.430637535,30120.35150877079
+938,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",853212149.9762051,177879.4345068873
+939,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",43221795.86800498,28899.606281254768
+940,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",372322555.472487,133934.50958769544
+941,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",6273.528140130428,323.65405238119246
+942,0.0,Henderson Municipal Power & Light,0,Municipal,Municipal,534672916.34826547,157370.24181052155
+943,1001200.0,"Duke Energy Kentucky, Inc.",100,Investor Owned,"Investor Owned Duke Energy Kentucky, Inc.",8174053979.399236,1872535.993978153
+944,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,86372681.61698152,50410.82850193463
+945,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,32760908790.779606,4926983.504412073
+946,2000200.0,Blue Grass Energy Cooperative Corp.,200,RECC,RECC Blue Grass Energy Cooperative Corp.,6885156974.750421,891204.8437203986
+947,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,138108928.3458998,85180.09850909606
+948,2800.0,"Owen Electric Cooperative, Inc.",200,RECC,"RECC Owen Electric Cooperative, Inc.",22203516510.59353,1877683.2091468219
+949,2700.0,Nolin R.E.C.C.,200,RECC,RECC Nolin R.E.C.C.,2923180.667014279,10183.69281071995
+950,2700.0,Nolin R.E.C.C.,200,RECC,RECC Nolin R.E.C.C.,166480.27026334728,1614.8450600375727
+951,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,788883555.2695733,326678.738036398
+952,2700.0,Nolin R.E.C.C.,200,RECC,RECC Nolin R.E.C.C.,20824616990.56252,2229832.955976633
+953,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,577195116.9835232,363069.24047153024
+954,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,60237310757.54275,2425692.5511264578
+955,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,362455179.1363205,113198.69923781743
+956,3000.0,"Shelby Energy Cooperative, Inc.",200,RECC,"RECC Shelby Energy Cooperative, Inc.",9899957581.155008,1289142.939925546
+957,500.0,Louisville Gas and Electric Company,100,Investor Owned,Investor Owned Louisville Gas and Electric Company,20489609883.599846,1458059.04613289
+958,0.0,Fulton Electric & Gas Systems,0,Municipal,Municipal,201953632.96367735,86621.18121181642
+959,0.0,Hickman Electric & Gas Systems,0,Municipal,Municipal,77181462.65975505,134437.8752453397
+960,0.0,Hickman Electric & Gas Systems,0,Municipal,Municipal,1210934.4274975471,5395.96428995906
+961,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,9104593.21575116,12148.40823652682
+962,0.0,Hickman Electric & Gas Systems,0,Municipal,Municipal,65250826.78784799,54911.51846102676
+963,0.0,Gibson Electric Membership Corp.,0,TVA,TVA Gibson Electric Membership Corp.,747596932.6011974,100025.85690622649
+964,0.0,Murray Electric and Natural Gas Syst,0,Municipal,Municipal,204105689.89879093,83573.83262045427
+965,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,76546.7716170377,1063.2511661537924
+966,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,814130.5072920219,3368.255036106476
+967,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,16589983.151886048,22419.202594098933
+968,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,118521001.62781414,62379.91361505546
+969,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,70443.6545145116,1018.5317461015778
+970,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,18456267.20489875,19652.24724633241
+971,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,42748.51467007395,940.5500598595432
+972,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,304195.8201824725,2227.7649449467276
+973,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,160911.78462814292,1564.1732940411364
+974,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,112403880.08474153,106725.69713697681
+975,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,499296.1631753134,2697.9346238473563
+976,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,6785661.250986192,17347.814201148012
+977,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,383950.4863899756,2670.9043844142866
+978,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,962148.1727514148,3803.213140349943
+979,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,201660649.73487157,83325.83558995785
+980,0.0,Jellico Electric & Water System,0,Municipal,Municipal,2366095463.6299825,218009.95324428153
+981,3100.0,South Kentucky R.E.C.C.,200,RECC,RECC South Kentucky R.E.C.C.,523885.3702593789,3479.5494006894733
+982,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,1521147.5343709223,6998.096100055105
+983,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,28842901.11149426,46696.07663769543
+984,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,208765.00415205062,1775.260757994395
+985,0.0,Franklin Electric Plant Board,0,Municipal,Municipal,245221971.01942444,99511.02683727752
+986,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,505147172.4772094,110802.24925708635
+987,0.0,Mayfield Electric & Water Systems,0,Municipal,Municipal,265112522.78349593,90675.71143144944
+988,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,318716658.7909452,150284.8587003768
+989,0.0,Russellville Electric Plant Board,0,Municipal,Municipal,311230242.19115233,76857.06476830061
+990,0.0,Benton Electric & Gas Systems,0,Municipal,Municipal,86157305.80239797,90280.95453760629
+991,0.0,Hopkinsville Electric System,0,Municipal,Municipal,375168732.0018352,138377.16711176583
+992,0.0,Barbourville,0,Municipal,Municipal,354787325.64964664,155609.11217576955
+993,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,2113448.3090123055,6227.244409024749
+994,0.0,Bardwell City Utilities,0,Municipal,Municipal,18344308.266208023,19144.65088224085
+995,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,418555.1639057755,2529.247684709085
+996,400.0,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,6582793.9144413415,13647.853609265361
+997,0.0,Corbin,0,Municipal,Municipal,130656911.46663159,70466.17410061712
+998,0.0,Gibson Electric Membership Corp.,0,TVA,TVA Gibson Electric Membership Corp.,13540110461.655909,1135328.8034243847
+999,0.0,Tri-County REMC,0,TVA,TVA Tri-County REMC,31719379331.899715,1356237.5086117445
+1000,0.0,Benham City Utilities,0,Municipal,Municipal,45716803.50776757,23968.9148845555
