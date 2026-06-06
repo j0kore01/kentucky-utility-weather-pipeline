@@ -1,0 +1,4 @@
+location_id,location_name,state,latitude,longitude,object_id,utility_id,company_name,utility_type,electric_type,service_class,match_method
+1,Louisville,KY,38.2542,-85.7594,267,500,Louisville Gas and Electric Company,100,Investor Owned,Investor Owned Louisville Gas and Electric Company,point_in_polygon
+2,Lexington,KY,38.0406,-84.5037,266,400,Kentucky Utilities Company,100,Investor Owned,Investor Owned Kentucky Utilities Company,point_in_polygon
+3,Bowling Green,KY,36.9685,-86.4808,44,0,Bowling Green Municipal,0,Municipal,Municipal,point_in_polygon
