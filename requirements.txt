@@ -1,0 +1,8 @@
+dash
+plotly
+pandas
+sqlalchemy
+psycopg2-binary
+requests
+shapely
+dash-leaflet
